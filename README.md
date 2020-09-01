@@ -10,6 +10,10 @@ http://newtumbl.com
 
 Of the many new Tumblr style sites that got created after this adult content ban, this was the one I was most impressed with.
 
+![](https://github.com/moedje/plugin.video.newtumbl/blob/master/resources/screenshot-01.jpg?raw=true)
+
+![](https://github.com/moedje/plugin.video.newtumbl/blob/master/resources/screenshot-02.jpg?raw=true)
+
 Unlike Tumblr though which provided a fully open API to build on top of it, NewTumbl has not yet made this available. However, I looked at the web page in Chrome's developer tools and found most of the API call's that I needed and was able to backwards engineer an addon for it.
 
 The only thing I can't easily do yet is make it easier for you to login.
