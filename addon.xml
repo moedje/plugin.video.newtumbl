@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.newtumbl"
+version="0.9.2"
+name="NewTumbl"
+provider-name="moedje">
+<requires>
+  <import addon="xbmc.python" version="2.24.0"/>
+  <import addon="script.module.urlquick" optional="true"/>
+  <import addon="script.module.youtube.dl" optional="true"/>
+</requires>
+<extension point="xbmc.python.pluginsource" library="main.py">
+  <provides>video</provides>
+</extension>
+<extension point="xbmc.addon.metadata">
+  <summary lang="en">NewTumbl</summary>
+  <description lang="en">Player for NewTumbl.Com Set your User Token and UserID in Settings to pull your Content. You can find this in your cookies will add more instructions soon if this is to technical for you as I hope to automate this login process.
+    [B]V0.9.0[/B] Finally fixed the dashboard! Hopefully fix some more and add some more soon! V0.5.0 Followed Blogs, Followed Tags, Search for Blogs, Search Videos by Tag, View Blog Videos, and Liked Videos all working. Downloading working v0.4.0 Started to add Following sections, liked, and tags  V0.3.0 Search Blogs V0.2.0 Currently able to display newTumbl Dashboard (Feed) and Search Tagged Video's. Next Feature Followed Blogs, Searh Blogs, Display a Blogs Posts
+  </description>
+  <disclaimer lang="en">Not to be used for any illegal activities.</disclaimer>
+</extension>
+</addon>

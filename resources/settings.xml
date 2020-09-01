@@ -1,0 +1,11 @@
+<settings>
+    <setting default="FzCWMJIw6mi8gl6pU6LgpGMcncAg75JIqnqBsiGK2tytG76I" id="usertoken" label="User Token" type="text" values="" visible="true"/>
+    <setting default="391932" id="userid" label="User ID" type="text" values="" visible="true"/>
+    <setting default="public" id="lastsearch" label="Last Search" type="text" values="" visible="true"/>
+    <setting default="gay" id="lastblogsearch" label="Last Blog Search" type="text" values="" visible="true"/>
+    <setting default="" id="downloadpath" label="Download Path" type="folder" values="" visible="true"/>
+	<setting default="500" id="viewthumb" label="Thumbs" type="text" values="" visible="true"/>
+	<setting default="0" id="startpagenum" label="Dashboard Start Page #" type="text" values="" visible="true"/>
+	<setting default="51" id="viewlist" label="Lists" type="text" values="" visible="true"/>
+    <setting default="false" id="nosearch" label="Prompt for search" type="text" visible="false"/>
+</settings>
